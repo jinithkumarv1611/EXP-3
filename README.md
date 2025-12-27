@@ -39,12 +39,26 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: 
+
+CIRCUIT DIAGRAM:
+<img width="1058" height="588" alt="Screenshot 2025-12-27 150031" src="https://github.com/user-attachments/assets/9a4a9683-76cd-4a97-8f57-25a3dcb110d1" />
+<img width="1056" height="595" alt="Screenshot 2025-12-27 150050" src="https://github.com/user-attachments/assets/3052ffee-2e5b-4e4a-9990-419cd992e167" />
+![WhatsApp Image 2025-12-26 at 8 43 22 PM](https://github.com/user-attachments/assets/91325da5-72a3-478f-a1e3-49c747fcfd90)
+
 Tabulation:1
+![WhatsApp Image 2025-12-27 at 3 08 51 PM](https://github.com/user-attachments/assets/64a7a16e-bea4-454d-8450-2e4b960dbcb5)
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
+
+CIRCUIT DIAGRAM:
+<img width="1055" height="658" alt="Screenshot 2025-12-27 150115" src="https://github.com/user-attachments/assets/bd70cdfd-f739-444c-91e3-7f7c2bfb900a" />
+<img width="1042" height="532" alt="Screenshot 2025-12-27 150126" src="https://github.com/user-attachments/assets/8c09fad3-1917-450b-81be-39a17aad62d5" />
+![WhatsApp Image 2025-12-26 at 8 42 39 PM](https://github.com/user-attachments/assets/7726eceb-22f2-436f-a9d3-de08cbb526f4)
+
 
 Tabulation:2
+![WhatsApp Image 2025-12-27 at 3 09 22 PM](https://github.com/user-attachments/assets/23935b95-2195-4e6d-a646-6ea6bbf3a5e5)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
